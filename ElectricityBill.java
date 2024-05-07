@@ -3,8 +3,7 @@ package RailWorld_Code;
 import java.util.Scanner;
 public class ElectricityBill {
 
-    public static void main(String args[])
-    {
+    public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter  units: ");
         int units = scanner.nextInt();
