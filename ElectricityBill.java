@@ -1,4 +1,3 @@
-package RailWorld_Code;
 
 import java.util.Scanner;
 public class ElectricityBill {
